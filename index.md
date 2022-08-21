@@ -1,2 +1,4 @@
-```function getChannelName() :: string:
-  return "SkriptingTutorials"```
+```
+function getChannelName() :: string:
+  return "SkriptingTutorials"
+```
